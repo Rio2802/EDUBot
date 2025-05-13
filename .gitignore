@@ -1,0 +1,6 @@
+.env
+config.yaml
+*.pyc
+firebase_key.json
+.streamlit/secrets.toml
+google_credentials.json
